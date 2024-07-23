@@ -4,6 +4,6 @@ CL-hosted CL-like DSL for generating GLSL
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/3b/3bgl-shader.git |
-| commit  | 87b1bd1                                   |
+| commit  | 2ea826d                                   |
 | systems | 3bgl-shader                               |
 |---------+-------------------------------------------|
